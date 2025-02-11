@@ -30,7 +30,7 @@
 
 > ***我生活在妙不可言的等待中，等待随便哪种未来。***
 
-⭐️ From [Edward](https://github.com/mist-whisper)
+⭐️ From [Whisper](https://github.com/mist-whisper)
 <!--
 **mist-whisper/mist-whisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
