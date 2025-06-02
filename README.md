@@ -2,7 +2,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/-fernwehsu@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fernwehsu@gmail.com)](mailto:fernwehsu@gmail.com)
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="JPG" src="https://raw.githubusercontent.com/mist-whisper/mist-whisper/main/View.jpg" />
 
 - 青年青年
 
